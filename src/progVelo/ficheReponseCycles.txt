@@ -9,7 +9,7 @@ Velo et VeloElec
 --toString();
 
 Exo 7 :
-"@Override" signifie
+"@Override" signifie qu'une méthode dans une classe dérivée redéfinit une méthode d'une classe parente.
 
 Exo 8 :
 
