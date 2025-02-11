@@ -1,0 +1,20 @@
+			=={Fiche Réponse progVelo}==
+
+Exo 5 :
+"Redefinir une méthode" signifie modifier ou remplacer une méthode existante
+dans une sous-classe pour qu'elle ait un comportement différent de celui de la méthode définie dans la classe parente.
+
+Exo 6 :
+Velo et VeloElec 
+--toString();
+
+Exo 7 :
+"@Override" signifie
+
+Exo 8 :
+
+
+Exo 9 :
+
+
+Exo 10 :
